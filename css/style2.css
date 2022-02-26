@@ -1,0 +1,33 @@
+/* Created by: Stella S
+* Created on: Feb 2022
+* This file defines the style for index.html
+* ICS2O-Unit-04-HMTL-CSS
+*/
+
+body {
+  background-color: 	PaleTurquoise;
+}
+
+h1 {
+  background-color: rgb(173, 216, 230);
+  color: hsl(17, 0%, 0%);
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  background-color: #F08080;
+  color: hsl(60, 12%, 94%);
+  text-align: center;
+}
+
+tr {
+  background-color: #F5FFFA;
+  color: hsl(60, 0%, 0%);
+  text-align: center;
+}
+
+ol {
+  background-color: rgb(173, 216, 230);
+  color: hsl(17, 0%, 0%);
+}
